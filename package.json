@@ -1,7 +1,7 @@
 {
-  "name": "growi-plugin-templates-for-template",
+  "name": "growi-profile-template",
   "version": "1.0.0",
-  "description": "GROWI template plugin for template",
+  "description": "GROWI template plugin for profile",
   "license": "MIT",
   "keywords": [
     "growi",
